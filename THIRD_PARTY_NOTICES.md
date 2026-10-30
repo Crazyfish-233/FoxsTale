@@ -63,10 +63,23 @@ All audio below is from Kenney (https://kenney.nl/assets), released under
 | `Sound Effects/Level Selected.ogg` | UI Audio | `Audio/click1.ogg` |
 | `Sound Effects/Map Movement.ogg` | UI Audio | `Audio/rollover1.ogg` |
 
-**Placeholders:** `Music/Main Level.wav`, `Music/Boss Battle.wav`,
-`Music/Level Select.wav` and `Music/Title Screen.wav` are 2-second silent
-placeholders. They keep the Unity GUIDs alive until CC0 loop tracks are added;
-replace them with same-name files when available.
+### Background music
+
+| File in repo | Track | Author | License |
+|---|---|---|---|
+| `Music/Main Level.ogg` | The Fish is Blue | Rick Hoppmann | CC0 1.0 |
+| `Music/Boss Battle.ogg` | Desert Bounce (trimmed) | see source note below | CC0 1.0 |
+| `Music/Level Select.ogg` | Minstrel Dance (Chiptune) | RandomMind | CC0 1.0 |
+
+- **Minstrel Dance**: https://opengameart.org/content/chiptune-medieval-minstrel-dance (CC0, confirmed on the asset page).
+- **The Fish is Blue** and **Desert Bounce**: sourced by the project author from CC0
+  music packs; source URLs are recorded in the project's asset log.
+
+All three tracks were re-encoded to Ogg Vorbis (q5, 44.1 kHz stereo) for size and
+gapless looping. No musical content was changed.
+
+**Placeholders:** `Music/Title Screen.wav` is still a 2-second silent placeholder.
+Replace it with a same-name CC0 loop track when available.
 
 ---
 
