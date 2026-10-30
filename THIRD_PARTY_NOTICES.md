@@ -67,19 +67,23 @@ All audio below is from Kenney (https://kenney.nl/assets), released under
 
 | File in repo | Track | Author | License |
 |---|---|---|---|
-| `Music/Main Level.ogg` | The Fish is Blue | Rick Hoppmann | CC0 1.0 |
-| `Music/Boss Battle.ogg` | Desert Bounce (trimmed) | see source note below | CC0 1.0 |
+| `Music/Main Level.ogg` | Happy Adventure (Loop) | TinyWorlds | CC0 1.0 |
+| `Music/Title Screen.ogg` | Happy Adventure (Loop) | TinyWorlds | CC0 1.0 |
+| `Music/Boss Battle.ogg` | Desert Theme - 8bit Chiptune Theme | Wolfgang_ (attribution notice: Ted Kerr) | CC0 1.0 |
 | `Music/Level Select.ogg` | Minstrel Dance (Chiptune) | RandomMind | CC0 1.0 |
+| `Music/Level Victory.ogg` | 8-Bit Victory Loop | Wolfgang_ | CC0 1.0 |
 
-- **Minstrel Dance**: https://opengameart.org/content/chiptune-medieval-minstrel-dance (CC0, confirmed on the asset page).
-- **The Fish is Blue** and **Desert Bounce**: sourced by the project author from CC0
-  music packs; source URLs are recorded in the project's asset log.
+- **Happy Adventure (Loop)**: https://opengameart.org/content/happy-adventure-loop
+- **Desert Theme - 8bit Chiptune Theme**: https://opengameart.org/content/desert-theme-8bit-chiptune-theme
+- **Minstrel Dance (Chiptune)**: https://opengameart.org/content/chiptune-medieval-minstrel-dance
+- **8-Bit Victory Loop**: https://opengameart.org/content/8-bit-victory-loop
 
-All three tracks were re-encoded to Ogg Vorbis (q5, 44.1 kHz stereo) for size and
-gapless looping. No musical content was changed.
+All four OpenGameArt pages list the work as CC0 1.0. The tracks were re-encoded to
+Ogg Vorbis (q5, 44.1 kHz stereo) for size and gapless looping; no musical content
+was changed. `Happy Adventure (Loop)` is used for both the title screen and the
+main level theme.
 
-**Placeholders:** `Music/Title Screen.wav` is still a 2-second silent placeholder.
-Replace it with a same-name CC0 loop track when available.
+`Music/Game Complete.ogg` is a Kenney Music Jingles track (see the table above).
 
 ---
 
